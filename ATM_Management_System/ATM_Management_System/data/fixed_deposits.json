@@ -1,0 +1,13 @@
+[
+    {
+        "fd_id": "FD20260707123322",
+        "account_number": "100000001",
+        "amount": 500.0,
+        "interest_rate": 6.5,
+        "duration": 3,
+        "interest": 97.5,
+        "maturity_amount": 597.5,
+        "status": "Closed",
+        "created_date": "2026-07-07"
+    }
+]

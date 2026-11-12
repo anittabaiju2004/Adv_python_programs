@@ -1,0 +1,10 @@
+[
+    {
+        "transaction_id": "TXN20260709100636",
+        "account_number": "100000001",
+        "type": "Deposit",
+        "amount": 200000.0,
+        "balance": 200000.0,
+        "date": "2026-07-09 10:06:36"
+    }
+]

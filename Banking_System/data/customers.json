@@ -1,0 +1,15 @@
+[
+    {
+        "account_number": "100000001",
+        "name": "Anitta",
+        "age": 25,
+        "gender": "female",
+        "phone": "9745685548",
+        "email": "anitta@gmail.com",
+        "address": "abcd",
+        "pin": "483029d526219f816e8e8f6a9de07b422633dba180ffc26faac22862a017519f",
+        "balance": 200000.0,
+        "status": "Active",
+        "created_date": "2026-07-07"
+    }
+]
